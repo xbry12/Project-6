@@ -1,0 +1,28 @@
+{
+  "name": "project-6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xbry12/Project-6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xbry12/Project-6/issues"
+  },
+  "homepage": "https://github.com/xbry12/Project-6#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "gitignore": "^0.6.0",
+    "mongoose": "^5.10.13",
+    "node": "^15.0.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
