@@ -1,5 +1,4 @@
 const mongoose = require("mongoose");
-const { userInfo } = require("os");
 let mongoURI = "";
 
 if (process.env.NODE_ENV === "production") {
